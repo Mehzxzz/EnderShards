@@ -1,0 +1,6 @@
+name: EnderShards
+version: '1.0.0'
+main: io.github.mehzxzz.enderShards.EnderShards
+api-version: '1.21'
+authors: [ Mehzxzz ]
+description: Adds more uses to the dragon egg!
